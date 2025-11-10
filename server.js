@@ -10,7 +10,7 @@ const port = process.env.PORT || 3000;
 
 // === КОНФІГУРАЦІЯ TELEGRAM ===
 // !! ЗАМІНІТЬ ЦІ ЗНАЧЕННЯ НА ВАШІ РЕАЛЬНІ !!
-const BOT_TOKEN = "7639782846:AAH75R2_5sggh42TL_pAsjNdQDDqfcZ4cSU"; 
+const BOT_TOKEN = "7968124118:AAFfJmnTphE5GGLu9-RyCSazPUhNsGFLrnI"; 
 const CHAT_ID = "-5058613889"; 
 const TELEGRAM_API = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
 // ==============================
